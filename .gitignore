@@ -1,0 +1,16 @@
+# Ignore build folders
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Ignore system files
+Thumbs.db
+*.DS_Store
+
+# Ignore Rider/JetBrains
+.idea/
+
+# Ignore debug logs
+*.log
